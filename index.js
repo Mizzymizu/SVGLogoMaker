@@ -1,1 +1,0 @@
-const inquirer = fs.require('inquirer');
