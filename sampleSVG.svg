@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="100" cy="100" r="100" stroke-width="3" fill="Red" />
+        <text x="100" y="100" font-size="35px" fill="Blue" text-anchor="middle">SVG</text>
+    </svg>
