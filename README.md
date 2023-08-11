@@ -6,7 +6,7 @@
 
 ### Installation
     
-    To use this application, please begin by cloning this repo to your local machine. Then install the requried packages by putting by typing ```npm install``` in this command line. Then run the application via ```node index.js```.
+    To use this application, please begin by cloning this repo to your local machine. Then install the requried packages by putting by typing ```npm install``` in this command line. Then run the application via node index.js.
 
 ### Info
 
