@@ -12,7 +12,6 @@ This is a simple node.js application that takes in user input to creat e a custo
 
 ### Info
 
-
-GitHub Repository: https://github.com/Mizzymizu/SVGLogoMaker
+My [GitHub Repository](https://github.com/Mizzymizu/SVGLogoMaker)
 
 Here is my [sample video](https://www.youtube.com/watch?v=ND5MoECJXEo)!
